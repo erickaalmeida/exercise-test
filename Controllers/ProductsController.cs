@@ -1,8 +1,7 @@
-using api_main.Data;
-using api_main.Entities;
+using Infrastructure.Data;
+using Core.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SQLitePCL;
 
 namespace api_main.Controllers
 {
