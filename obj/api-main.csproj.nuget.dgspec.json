@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.netProjects\\exercise\\api-main\\api-main.csproj": {}
+    "D:\\.netProjects\\exercise\\api-main\\api-main.csproj": {}
   },
   "projects": {
-    "d:\\.netProjects\\exercise\\api-main\\api-main.csproj": {
+    "D:\\.netProjects\\exercise\\api-main\\api-main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.netProjects\\exercise\\api-main\\api-main.csproj",
+        "projectUniqueName": "D:\\.netProjects\\exercise\\api-main\\api-main.csproj",
         "projectName": "api-main",
-        "projectPath": "d:\\.netProjects\\exercise\\api-main\\api-main.csproj",
+        "projectPath": "D:\\.netProjects\\exercise\\api-main\\api-main.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "d:\\.netProjects\\exercise\\api-main\\obj\\",
+        "outputPath": "D:\\.netProjects\\exercise\\api-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj"
+              "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.7, )"
@@ -83,14 +87,14 @@
         }
       }
     },
-    "d:\\.netProjects\\exercise\\Core\\Core.csproj": {
+    "D:\\.netProjects\\exercise\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.netProjects\\exercise\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\.netProjects\\exercise\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "d:\\.netProjects\\exercise\\Core\\Core.csproj",
+        "projectPath": "D:\\.netProjects\\exercise\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "d:\\.netProjects\\exercise\\Core\\obj\\",
+        "outputPath": "D:\\.netProjects\\exercise\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,14 +142,14 @@
         }
       }
     },
-    "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "d:\\.netProjects\\exercise\\Infrastructure\\obj\\",
+        "outputPath": "D:\\.netProjects\\exercise\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,8 +166,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "d:\\.netProjects\\exercise\\Core\\Core.csproj": {
-                "projectPath": "d:\\.netProjects\\exercise\\Core\\Core.csproj"
+              "D:\\.netProjects\\exercise\\Core\\Core.csproj": {
+                "projectPath": "D:\\.netProjects\\exercise\\Core\\Core.csproj"
               }
             }
           }

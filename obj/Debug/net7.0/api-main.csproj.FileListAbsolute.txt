@@ -71,3 +71,6 @@ D:\.netProjects\exercise\api-main\bin\Debug\net7.0\Core.dll
 D:\.netProjects\exercise\api-main\bin\Debug\net7.0\Infrastructure.dll
 D:\.netProjects\exercise\api-main\bin\Debug\net7.0\Infrastructure.pdb
 D:\.netProjects\exercise\api-main\bin\Debug\net7.0\Core.pdb
+D:\.netProjects\exercise\api-main\bin\Debug\net7.0\AutoMapper.dll
+D:\.netProjects\exercise\api-main\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.netProjects\exercise\api-main\bin\Debug\net7.0\api-main.staticwebassets.runtime.json
