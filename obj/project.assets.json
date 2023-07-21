@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.netProjects\\exercise\\api-main\\api-main.csproj",
+      "projectUniqueName": "d:\\.netProjects\\exercise\\api-main\\api-main.csproj",
       "projectName": "api-main",
-      "projectPath": "D:\\.netProjects\\exercise\\api-main\\api-main.csproj",
+      "projectPath": "d:\\.netProjects\\exercise\\api-main\\api-main.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "D:\\.netProjects\\exercise\\api-main\\obj\\",
+      "outputPath": "d:\\.netProjects\\exercise\\api-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1784,8 +1784,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj"
+            "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "d:\\.netProjects\\exercise\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
